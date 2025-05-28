@@ -44,7 +44,7 @@ export const info = {
             text: 'based in India'
         },
         {
-            emoji: "💼",
+            emoji: "👨🏻‍💻",
             text: "Solving problems with code and creativity."
         },
         {
