@@ -36,13 +36,21 @@ export default function About({innerRef}) {
             </p>
             <p><span style={{color: info.baseColor}}>skills/tools <span
                 className={Style.green}>(main)</span> $</span> ls</p>
-            <p style={{color: info.baseColor}}> Proficient With</p>
+            <p style={{color: info.baseColor}}> FrontEnd</p>
             <ul className={Style.skills}>
-                {info.skills.proficientWith.map((proficiency, index) => <li key={index}>{proficiency}</li>)}
+                {info.skills.frontEnd.map((proficiency, index) => <li key={index}>{proficiency}</li>)}
             </ul>
-            <p style={{color: info.baseColor}}> Exposed To</p>
+            <p style={{color: info.baseColor}}> BackEnd</p>
             <ul className={Style.skills}>
-                {info.skills.exposedTo.map((skill, index) => <li key={index}>{skill}</li>)}
+                {info.skills.backEnd.map((skill, index) => <li key={index}>{skill}</li>)}
+            </ul>
+            <p style={{color: info.baseColor}}> Database</p>
+            <ul className={Style.skills}>
+                {info.skills.database.map((skill, index) => <li key={index}>{skill}</li>)}
+            </ul>
+            <p style={{color: info.baseColor}}> tools & deployment</p>
+            <ul className={Style.skills}>
+                {info.skills.deployment.map((skill, index) => <li key={index}>{skill}</li>)}
             </ul>
         </>;
     }

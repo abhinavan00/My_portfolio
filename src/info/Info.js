@@ -86,8 +86,10 @@ export const info = {
     vision: "Eager to contribute to innovative teams and grow my expertise in a collaborative environment. I believe the best products are built when diverse minds work together with a shared purpose.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            frontEnd: ['html5', 'css3', 'javascript', 'react.js', 'vite'],
+            backEnd: ['node.js', 'express.js', 'rest API', 'gRPC'],
+            database: ['postgreSQL', 'relational databases'],
+            deployment: ['git', 'dbeaver', 'render.com']
         }
     ,
     hobbies: [
@@ -96,8 +98,8 @@ export const info = {
             emoji: '📖'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'travelling',
+            emoji: '✈️'
         },
         {
             label: 'movies',
