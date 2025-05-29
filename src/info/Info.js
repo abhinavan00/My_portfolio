@@ -83,6 +83,7 @@ export const info = {
 
     ],
     bio: "I’m a curious full stack developer who loves to understand how things work under the hood. I enjoy turning ideas into real apps and constantly learning new technologies.",
+    vision: "Eager to contribute to innovative teams and grow my expertise in a collaborative environment. I believe the best products are built when diverse minds work together with a shared purpose.",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
