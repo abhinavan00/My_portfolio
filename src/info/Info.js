@@ -107,5 +107,17 @@ export const info = {
             source: "https://github.com/abhinavan00/JavaScript_Framework",
             image: mock2
         },
+    ],
+    blogs: [
+        {
+            title: "Building My 1st Full Stack App - Frontend",
+            link: "https://dev.to/abhinavan00/building-my-first-full-stack-app-part-1-crafting-the-react-frontend-for-face-detection-48k1",
+            image: mock1
+        },
+        {
+            title: "",
+            link: "https://dev.to/abhinavan00/building-my-first-full-stack-app-part-2-crafting-the-nodejs-backend-for-face-detection-295m",
+            image: mock2 
+        }
     ]
 }
