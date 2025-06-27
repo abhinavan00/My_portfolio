@@ -120,6 +120,11 @@ export const info = {
             title: "Building My 1st Full Stack App - Backend",
             link: "https://dev.to/abhinavan00/building-my-first-full-stack-app-part-2-crafting-the-nodejs-backend-for-face-detection-295m",
             image: blogmock2
+        },
+        {
+            title: "",
+            link: "",
+            image: ""
         }
     ]
 }
