@@ -122,7 +122,7 @@ export const info = {
             image: blogmock2
         },
         {
-            title: "",
+            title: "Building My 1st Full Stack App - Database",
             link: "",
             image: ""
         }
