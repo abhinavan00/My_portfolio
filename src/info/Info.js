@@ -3,6 +3,7 @@ import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import blogmock1 from "../img/blogmock1.png"
 import blogmock2 from "../img/blogmock2.png"
+import blogmock3 from '../img/blogmock3.png'
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -123,8 +124,8 @@ export const info = {
         },
         {
             title: "Building My 1st Full Stack App - Database",
-            link: "",
-            image: ""
+            link: "https://dev.to/abhinavan00/building-my-first-full-stack-app-part-3-integrating-the-database-with-postgresql-knexjs-2674",
+            image: blogmock3
         }
     ]
 }
